@@ -1,6 +1,6 @@
 {
   "name": "finance-skill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Financial data fetching tool - ported from Java Dragonfly project",
   "main": "bin/finance",
   "bin": {
