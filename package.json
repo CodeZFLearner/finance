@@ -4,12 +4,17 @@
   "description": "Financial data fetching tool - ported from Java Dragonfly project",
   "main": "bin/finance",
   "bin": {
-    "finance": "./bin/finance.js"
+    "finance": "bin/finance.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["finance", "eastmoney", "sina", "stock"],
+  "keywords": [
+    "finance",
+    "eastmoney",
+    "sina",
+    "stock"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
